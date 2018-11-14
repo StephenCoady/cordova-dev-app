@@ -12,6 +12,7 @@ A local copy of the Aerogear javascript sdk:
 ```
 git clone git@github.com:aerogear/aerogear-js-sdk.git
 cd packages/sync
+npm run build
 npm link .
 ```
 
